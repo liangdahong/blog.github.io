@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.liangdahong.com/2020/03/14/1/</loc>
+    
+    <lastmod>2020-03-13T17:58:11.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.liangdahong.com/2016/07/09/iOS%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E7%AC%AC%E4%B8%89%E6%96%B9/</loc>
     
     <lastmod>2020-02-29T16:50:35.000Z</lastmod>
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://blog.liangdahong.com/album/index.html</loc>
-    
-    <lastmod>2018-06-19T01:37:05.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.liangdahong.com/categories/index.html</loc>
     
     <lastmod>2018-06-19T01:37:05.000Z</lastmod>
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://blog.liangdahong.com/search/index.html</loc>
+    <loc>https://blog.liangdahong.com/album/index.html</loc>
     
     <lastmod>2018-06-19T01:37:05.000Z</lastmod>
     
@@ -66,6 +66,13 @@
   
   <url>
     <loc>https://blog.liangdahong.com/tags/index.html</loc>
+    
+    <lastmod>2018-06-19T01:37:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.liangdahong.com/search/index.html</loc>
     
     <lastmod>2018-06-19T01:37:05.000Z</lastmod>
     
