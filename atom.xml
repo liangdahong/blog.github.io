@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://liangdahong.com/"/>
+  <link href="https://blog.liangdahong.com/"/>
   <updated>2019-10-18T23:11:33.000Z</updated>
-  <id>http://liangdahong.com/</id>
+  <id>https://blog.liangdahong.com/</id>
   
   <author>
     <name>梁大红</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>正确高效使用 Google</title>
-    <link href="http://liangdahong.com/2018/07/11/%E6%AD%A3%E7%A1%AE%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8-Google/"/>
-    <id>http://liangdahong.com/2018/07/11/正确高效使用-Google/</id>
+    <link href="https://blog.liangdahong.com/2018/07/11/%E6%AD%A3%E7%A1%AE%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8-Google/"/>
+    <id>https://blog.liangdahong.com/2018/07/11/正确高效使用-Google/</id>
     <published>2018-07-11T03:30:49.000Z</published>
     <updated>2019-10-18T23:11:33.000Z</updated>
     
@@ -31,17 +31,17 @@
     
     </summary>
     
-      <category term="03-技术-计算机" scheme="http://liangdahong.com/categories/03-%E6%8A%80%E6%9C%AF-%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="03-技术-计算机" scheme="https://blog.liangdahong.com/categories/03-%E6%8A%80%E6%9C%AF-%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
     
-      <category term="计算机" scheme="http://liangdahong.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+      <category term="计算机" scheme="https://blog.liangdahong.com/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>浅谈 iOS 事件的传递和响应过程</title>
-    <link href="http://liangdahong.com/2018/06/08/%E6%B5%85%E8%B0%88-iOS-%E4%BA%8B%E4%BB%B6%E7%9A%84%E4%BC%A0%E9%80%92%E5%92%8C%E5%93%8D%E5%BA%94%E8%BF%87%E7%A8%8B/"/>
-    <id>http://liangdahong.com/2018/06/08/浅谈-iOS-事件的传递和响应过程/</id>
+    <link href="https://blog.liangdahong.com/2018/06/08/%E6%B5%85%E8%B0%88-iOS-%E4%BA%8B%E4%BB%B6%E7%9A%84%E4%BC%A0%E9%80%92%E5%92%8C%E5%93%8D%E5%BA%94%E8%BF%87%E7%A8%8B/"/>
+    <id>https://blog.liangdahong.com/2018/06/08/浅谈-iOS-事件的传递和响应过程/</id>
     <published>2018-06-08T03:16:11.000Z</published>
     <updated>2019-10-18T23:09:53.000Z</updated>
     
@@ -63,17 +63,17 @@
     
     </summary>
     
-      <category term="00-技术-iOS" scheme="http://liangdahong.com/categories/00-%E6%8A%80%E6%9C%AF-iOS/"/>
+      <category term="00-技术-iOS" scheme="https://blog.liangdahong.com/categories/00-%E6%8A%80%E6%9C%AF-iOS/"/>
     
     
-      <category term="iOS" scheme="http://liangdahong.com/tags/iOS/"/>
+      <category term="iOS" scheme="https://blog.liangdahong.com/tags/iOS/"/>
     
   </entry>
   
   <entry>
     <title>各种资料收集区</title>
-    <link href="http://liangdahong.com/2016/09/10/%E5%90%84%E7%A7%8D%E8%B5%84%E6%96%99%E6%94%B6%E9%9B%86%E5%8C%BA/"/>
-    <id>http://liangdahong.com/2016/09/10/各种资料收集区/</id>
+    <link href="https://blog.liangdahong.com/2016/09/10/aaa%E5%90%84%E7%A7%8D%E8%B5%84%E6%96%99%E6%94%B6%E9%9B%86%E5%8C%BA/"/>
+    <id>https://blog.liangdahong.com/2016/09/10/aaa各种资料收集区/</id>
     <published>2016-09-10T05:29:05.000Z</published>
     <updated>2020-02-29T16:44:59.000Z</updated>
     
@@ -91,17 +91,17 @@
     
     </summary>
     
-      <category term="00-技术-iOS" scheme="http://liangdahong.com/categories/00-%E6%8A%80%E6%9C%AF-iOS/"/>
+      <category term="00-技术-iOS" scheme="https://blog.liangdahong.com/categories/00-%E6%8A%80%E6%9C%AF-iOS/"/>
     
     
-      <category term="资料" scheme="http://liangdahong.com/tags/%E8%B5%84%E6%96%99/"/>
+      <category term="资料" scheme="https://blog.liangdahong.com/tags/%E8%B5%84%E6%96%99/"/>
     
   </entry>
   
   <entry>
     <title>iOS开发中的一些第三方</title>
-    <link href="http://liangdahong.com/2016/07/09/iOS%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E7%AC%AC%E4%B8%89%E6%96%B9/"/>
-    <id>http://liangdahong.com/2016/07/09/iOS开发中的一些第三方/</id>
+    <link href="https://blog.liangdahong.com/2016/07/09/iOS%E5%BC%80%E5%8F%91%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E7%AC%AC%E4%B8%89%E6%96%B9/"/>
+    <id>https://blog.liangdahong.com/2016/07/09/iOS开发中的一些第三方/</id>
     <published>2016-07-09T13:50:53.000Z</published>
     <updated>2020-02-29T16:50:35.000Z</updated>
     
@@ -115,17 +115,17 @@
     
     </summary>
     
-      <category term="00-技术-iOS" scheme="http://liangdahong.com/categories/00-%E6%8A%80%E6%9C%AF-iOS/"/>
+      <category term="00-技术-iOS" scheme="https://blog.liangdahong.com/categories/00-%E6%8A%80%E6%9C%AF-iOS/"/>
     
     
-      <category term="iOS" scheme="http://liangdahong.com/tags/iOS/"/>
+      <category term="iOS" scheme="https://blog.liangdahong.com/tags/iOS/"/>
     
   </entry>
   
   <entry>
     <title>使用 Hexo 搭建个人博客</title>
-    <link href="http://liangdahong.com/2016/04/08/%E4%BD%BF%E7%94%A8-Hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://liangdahong.com/2016/04/08/使用-Hexo-搭建个人博客/</id>
+    <link href="https://blog.liangdahong.com/2016/04/08/%E4%BD%BF%E7%94%A8-Hexo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://blog.liangdahong.com/2016/04/08/使用-Hexo-搭建个人博客/</id>
     <published>2016-04-07T22:47:38.000Z</published>
     <updated>2019-10-18T23:11:30.000Z</updated>
     
@@ -137,10 +137,10 @@
     
     </summary>
     
-      <category term="04-技术-Hexo" scheme="http://liangdahong.com/categories/04-%E6%8A%80%E6%9C%AF-Hexo/"/>
+      <category term="04-技术-Hexo" scheme="https://blog.liangdahong.com/categories/04-%E6%8A%80%E6%9C%AF-Hexo/"/>
     
     
-      <category term="Hexo" scheme="http://liangdahong.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://blog.liangdahong.com/tags/Hexo/"/>
     
   </entry>
   
